@@ -1,2 +1,2 @@
 # packet-tracer-labs
-Collection of completed Packet Tracer Labs
+Collection of completed Packet Tracer labs
